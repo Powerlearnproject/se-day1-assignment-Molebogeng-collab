@@ -10,7 +10,7 @@ Software engineering is a systemetic application of engineering application, met
 Identify and describe at least three key milestones in the evolution of software engineering.
 - Birth of software engineering-
 - introduction of the waterfall model
-- Rise of agile methodology
+- Rise of agile methodology 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
