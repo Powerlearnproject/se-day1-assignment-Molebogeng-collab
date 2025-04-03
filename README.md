@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is a systemetic application of engineering application, methods and techniques to develop and maintain software systems. It helps in the development of devices and machines, it ensures that they are able to perform to their optimul function.
+Software engineering is a systemetic application of engineering application, methods and techniques to develop and maintain software systems. It helps in the development of devices and machines, it ensures that they are able to perform to their optimul function..
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 - Birth of software engineering-
